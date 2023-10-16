@@ -1,5 +1,10 @@
 * {
-
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: center;
 }
 
 :root {
@@ -9,6 +14,44 @@
     --secondary-bg-color: #FEA938;
   }
 
+body {
+  width: 1440px;
+  height: 2451px;
+}
+
+.rectangle-1 {
+  display: block;
+  width: 1440px;
+  height: 827px;
+  background: #FAF1E4;
+}
+
+.text-section {
+width: Hug (741px);
+height: Hug (159px);
+top: 890px;
+left: 142px;
+gap: 33px;
+}
+
+.text-section h2 {
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 60px;
+  color: #457D00;
+  top: 890px;
+  left: 142px;
+}
+
+
+.rectangle-2 {
+  position: relative;
+  top: 1143px;
+  width: 1440px;
+  height: 1362px;
+  background: #FAF1E4;
+}
 
 /* Alderico */
 
